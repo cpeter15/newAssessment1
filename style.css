@@ -1,0 +1,35 @@
+/* add code here to make your image 300px square */
+#pet{
+  height: 300px;
+  width: 300px;
+}
+/* add code here to change the color and font family of your name/title */
+h1{
+  color: green;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+/* Bonus: change the color of your list elements */
+#list1{
+  color: red;
+}
+#list2{
+  color: blue;
+}
+#list3{
+  color: orange;
+}
+
+.questions{
+  font-weight: bold;
+}
+
+#lightDiv{
+  text-align: right;
+}
+
+footer{
+  text-align: center;
+}
+#copyright{
+  font-size: 12px;
+}
